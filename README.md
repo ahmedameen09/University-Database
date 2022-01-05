@@ -9,6 +9,6 @@ Finally run the Update.sql File to get your tables and relations ready.
 
 ![MRU-Relationship - Participation drawio](https://user-images.githubusercontent.com/69634124/148282658-71dee5a9-8a9d-40fc-91ce-8fb19b65a189.png)
 
-#The-ERR-Diagram:
+The ERR Diagram:
 
 ![ERR](https://user-images.githubusercontent.com/69634124/148282786-7001cdfa-a8c0-4a7d-b66e-ceea47ccedde.png)
